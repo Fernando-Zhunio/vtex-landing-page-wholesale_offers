@@ -1,7 +1,7 @@
 {
   "vendor": "novicompu",
   "name": "ofertas-al-por-mayor",
-  "version": "0.0.1",
+  "version": "0.0.1-beta.0",
   "title": "Ofertas al por mayor",
   "description": "Ofertas al por mayor para pagina de novicompu.com",
   "builders": {
