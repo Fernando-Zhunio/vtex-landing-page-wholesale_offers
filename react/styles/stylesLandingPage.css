@@ -1,0 +1,6 @@
+.landing-page{
+  background-image: url('/assets/landing-remate/fondo_page_remate_landing.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
